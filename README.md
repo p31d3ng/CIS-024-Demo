@@ -11,7 +11,7 @@ You should have at least one more branch, which contains one of your weekly assi
 
 Bascially all you need to do is just to copy & paste them from Replit to Github
 
-For exmaple, if you chose to upload your first week's assginment, I'm expecting seeing a branch named `week_1, and in your `week_1` branch, I should see
+For exmaple, if you chose to upload your first week's assginment, I'm expecting seeing a branch named `week_1`, and in your `week_1` branch, I should see
 
 ```
 README.md
